@@ -5,7 +5,7 @@ export default function App() {
     <div className="App">
       <h1>Hello World</h1>
       <img className="im" src="./bmw.png" alt="image of heart"></img>
-      <h2>Start editing to see !</h2>
+      <h2>Ghooooooooo Ghoooooo !</h2>
     </div>
   );
 }
