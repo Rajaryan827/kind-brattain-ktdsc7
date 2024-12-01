@@ -2,3 +2,16 @@
   font-family: sans-serif;
   text-align: center;
 }
+@keyframes rotate360 {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.im {
+  animation: rotate360 2.8s linear infinite; /* Adjust the duration as needed */
+  width: 85px;
+}
